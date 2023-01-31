@@ -1,0 +1,4 @@
+GBPC
+GBPD
+USDD
+USDC
